@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="mainColor">#3A3C68</color>
+    <color name="serveColor">#778899</color>
+    <color name="oneColor">#c0c0c0</color>
+    <color name="twoColor">#ECC7C5</color>
+    <color name="threeColor">#F0EBEC</color>
+    <color name="fourColor">#efebe2</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="today">#D39C93</color>
+    <color name="main_background">#FEFFFB</color>
+    <color name="main_text">#434343</color>
+    <color name="status_bar">#ECEDE8</color>
+    <color name="btn_false">#AAAAAA</color>
+</resources>
